@@ -576,6 +576,13 @@ Bicep:
   tm_scope: source.bicep
   ace_mode: text
   language_id: 321200902
+BigbangAC:
+  type: programming
+  color: "#5546ff"
+  ace_mode: lisp
+  extensions:
+    - ".big"
+  tm_scope: source.big
 Bikeshed:
   type: markup
   color: "#5562ac"
