@@ -581,8 +581,9 @@ BigbangAC:
   color: "#5546ff"
   ace_mode: lisp
   extensions:
-    - ".big"
+  - ".big"
   tm_scope: source.big
+  language_id: 356321539
 Bikeshed:
   type: markup
   color: "#5562ac"
